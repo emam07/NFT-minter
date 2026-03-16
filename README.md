@@ -22,7 +22,7 @@ This project lets you **deploy and mint NFTs on the blockchain using Starton** A
 - A funded testnet wallet (Mumbai/Goerli)
 - Metamask + Etherscan for verification
 
----
+```
 
 ## 📁 Project Structure
 nft-minter/
@@ -35,7 +35,7 @@ nft-minter/
 ├── hardhat.config.js
 ├── package.json
 └── README.md
-
+```
 npm install --save-dev hardhat
 npm install @nomicfoundation/hardhat-toolbox dotenv axios ethers
 Initialize Hardhat
